@@ -1,11 +1,6 @@
 import React from 'react';
 import './Profile.css';
 
-const picture = {
-    url: String,
-    size: Number,
-}
-
 export default function Profile() {
     return (
         <div className="profile-container">
